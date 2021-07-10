@@ -1,6 +1,4 @@
-# Computer Graphics Assignment 1
-## Pranshul Chawla
-## 2019101057
+# Among Us
 ---
 
 
